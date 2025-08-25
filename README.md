@@ -1,2 +1,1 @@
-# startups
-Mis notas de lo que aprendí sobre Startups
+Notas de mi trayectoria de aprendizaje de startups
