@@ -11,14 +11,12 @@
             "id": "2d7b30889be9a87c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "01. Camino emprendedor/02. Identificación de oportunidades.md"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "excalidraw-icon",
+              "title": "02. Identificación de oportunidades"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be2901975df4c74d",
@@ -172,9 +171,12 @@
   },
   "active": "2d7b30889be9a87c",
   "lastOpenFiles": [
-    "README.md",
     "01. Camino emprendedor/01. Motivación y propósito.md",
+    "01. Camino emprendedor/02. Identificación de oportunidades.md",
+    "01. Camino emprendedor/02. Identificación de oportunidades de negocio.md",
+    "01. Camino emprendedor/01. Método Cornell.md",
     "Plantillas/01. Método Cornell.md",
+    "README.md",
     "Sin título.md",
     "Plantillas/01. Modelo Cornell.md",
     "01. Modelo Cornell.md",
